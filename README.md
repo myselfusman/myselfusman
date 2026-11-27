@@ -24,7 +24,7 @@ I'm a **DevOps Engineer** who builds and runs containerized infrastructure: Dock
 
 Before DevOps, I spent **5 years shipping 100+ WordPress & WooCommerce sites** for clients in the 🇺🇸 USA, 🇦🇪 UAE, 🇬🇧 UK and 🇵🇰 Pakistan. So I know what "production" means: real users, real downtime, real clients on the phone.
 
-- 🚀 **Now:** DevOps Engineer (Internship) @ **BuiltinSoft**, *Oct 2025 – present*
+- 🚀 **Internship:** DevOps Engineer @ **BuiltinSoft**, *Oct 2025 – Dec 2026*
 - 🌐 **Before:** WordPress Designer & Developer @ Xpert Tech · Social Buzz · Elite Commerce Tech, *2020 – 2025*
 - 🎓 **Education:** BS Computer Science, KFUEIT
 - 🌱 **Learning:** Kubernetes · Terraform · Ansible · Prometheus · Grafana · AWS

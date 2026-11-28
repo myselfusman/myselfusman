@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="5+ years in production, 100+ websites shipped, 11 countries served, 11 certifications">
+  <rect x="1" y="1" width="282" height="166" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="24" y="1" width="48" height="4" rx="2" fill="#22d3ee"/>
+  <text x="142" y="92" text-anchor="middle" font-family="'Segoe UI','Inter',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-weight="800" font-size="58" fill="#f0f6fc">5+</text>
+  <text x="142" y="132" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" letter-spacing="1" fill="#8b949e">YEARS IN PRODUCTION</text><rect x="306" y="1" width="282" height="166" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="329" y="1" width="48" height="4" rx="2" fill="#22d3ee"/>
+  <text x="447" y="92" text-anchor="middle" font-family="'Segoe UI','Inter',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-weight="800" font-size="58" fill="#f0f6fc">100+</text>
+  <text x="447" y="132" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" letter-spacing="1" fill="#8b949e">WEBSITES SHIPPED</text><rect x="611" y="1" width="282" height="166" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="634" y="1" width="48" height="4" rx="2" fill="#22d3ee"/>
+  <text x="752" y="92" text-anchor="middle" font-family="'Segoe UI','Inter',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-weight="800" font-size="58" fill="#f0f6fc">11</text>
+  <text x="752" y="132" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" letter-spacing="1" fill="#8b949e">COUNTRIES SERVED</text><rect x="916" y="1" width="282" height="166" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="939" y="1" width="48" height="4" rx="2" fill="#22d3ee"/>
+  <text x="1057" y="92" text-anchor="middle" font-family="'Segoe UI','Inter',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-weight="800" font-size="58" fill="#f0f6fc">11</text>
+  <text x="1057" y="132" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" letter-spacing="1" fill="#8b949e">CERTIFICATIONS</text>
+</svg>

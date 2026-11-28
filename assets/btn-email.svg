@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="60" viewBox="0 0 128 60" role="img" aria-label="Email">
+  <defs><filter id="s" x="-20%" y="-30%" width="140%" height="180%"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#d93025" flood-opacity="0.35"/></filter></defs>
+  <rect x="6" y="4" width="116" height="46" rx="23" fill="#d93025" filter="url(#s)"/>
+  <rect x="7" y="5" width="114" height="22" rx="11" fill="#ffffff" opacity="0.10"/>
+  <rect x="6.5" y="4.5" width="115" height="45" rx="22.5" fill="none" stroke="#ffffff" stroke-opacity="0.18"/>
+  <g transform="translate(26 17) scale(0.833)"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" fill="#fff"/></g>
+  <text x="56" y="33" font-family="'Segoe UI','Inter',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff" letter-spacing="0.3">Email</text>
+</svg>
